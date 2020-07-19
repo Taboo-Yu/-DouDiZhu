@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DouDiZhuTest:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="DouDiZhuTest.jar">
+      <element id="module-output" name="DouDiZhuTest" />
+    </root>
+  </artifact>
+</component>
